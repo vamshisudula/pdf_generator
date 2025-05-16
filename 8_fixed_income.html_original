@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="mutual_fund_style.css" />
+    <style>
+      .debt-table {
+        position: absolute;
+        width: 556px;
+        top: 200px;
+        left: 20px;
+        border-collapse: collapse;
+      }
+      .debt-table th {
+        font-family: "DM Sans", Helvetica;
+        font-weight: 600;
+        color: #494949;
+        font-size: 10px;
+        text-align: left;
+        padding: 8px 10px;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      .debt-table td {
+        font-family: "DM Sans", Helvetica;
+        font-weight: 500;
+        color: #494949;
+        font-size: 10px;
+        padding: 8px 10px;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      .senior-secured {
+        font-size: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="element" data-model-id="1:1350">
+      <div class="div">
+        <div class="text-wrapper">Fixed Income Offering</div>
+
+        <p class="p">The investment strategy is to invest across high quality Fixed Income Instruments along with structured diversified portfolio with an aim to generate periodic cash flows and capital growth.</p>
+        
+        
+        <table class="debt-table">
+          <caption style="text-align: left; font-family: 'DM Sans', Helvetica; font-weight: 700; color: #032b5b; font-size: 14px; margin-bottom: 10px;" id="fixed-income-caption">List of Debt Papers</caption>
+          <thead>
+            <tr>
+              <th>Fund Name</th>
+              <th>Maturity</th>
+              <th>Payment Frequency</th>
+              <th>YTM</th>
+              <th>Quantum</th>
+              <th>Type</th>
+              <th>Face Value</th>
+              <th>Rating</th>
+            </tr>
+          </thead>
+          <tbody id="fixed-income-data">
+            <tr>
+              <td>10.5% SATIN CREDITCARE NETWORK LIMITED 2027</td>
+              <td>28 Jan 2027(M)</td>
+              <td>Monthly</td>
+              <td>10.50%</td>
+              <td>10 Lac</td>
+              <td class="senior-secured">Senior Secured</td>
+              <td>1,00,000</td>
+              <td>A by ICRA</td>
+            </tr>
+            <tr>
+              <td>11.5% ESAF SMALL FINANCE BANK LIMITED 2028</td>
+              <td>28 Jan 2027(M)</td>
+              <td>Monthly</td>
+              <td>10.50%</td>
+              <td>10 Lac</td>
+              <td class="senior-secured">Senior Secured</td>
+              <td>1,00,000</td>
+              <td>A by ICRA</td>
+            </tr>
+            <tr>
+              <td>8.40% HDB FINANCIAL SERVICES LIMITED 2033</td>
+              <td>28 Jan 2027(M)</td>
+              <td>Monthly</td>
+              <td>10.50%</td>
+              <td>10 Lac</td>
+              <td class="senior-secured">Senior Secured</td>
+              <td>1,00,000</td>
+              <td>A by ICRA</td>
+            </tr>
+            <tr>
+              <td>8.80% CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED 2033</td>
+              <td>28 Jan 2027(M)</td>
+              <td>Monthly</td>
+              <td>10.50%</td>
+              <td>10 Lac</td>
+              <td class="senior-secured">Senior Secured</td>
+              <td>1,00,000</td>
+              <td>A by ICRA</td>
+            </tr>
+            <tr>
+              <td>8.49% KERALA INFRASTRUCTURE INVESTMENT FUND BOARD 2034</td>
+              <td>28 Jan 2027(M)</td>
+              <td>Monthly</td>
+              <td>10.50%</td>
+              <td>10 Lac</td>
+              <td class="senior-secured">Senior Secured</td>
+              <td>1,00,000</td>
+              <td>A by ICRA</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="overlap-group">
+          <div class="rectangle"></div>
+          <div class="frame"><div class="text-wrapper-14">Investment Products</div></div>
+        </div>
+        <div class="div-wrapper"><div class="text-wrapper-15">Target: 1.00Cr</div></div>
+        <img class="group" src="https://c.animaapp.com/pybZqySi/img/group-1@4x.png" />
+        <div class="overlap-wrapper">
+          <div class="overlap-2">
+            <div class="overlap-group-wrapper">
+              <div class="overlap-3">
+                <div class="group-2">
+                  <div class="overlap-group-2">
+                    <img class="img-2" src="https://c.animaapp.com/pybZqySi/img/group@2x.png" />
+                    <img class="img-3" src="https://c.animaapp.com/pybZqySi/img/group-3@2x.png" />
+                  </div>
+                  <div class="overlap-4">
+                    <div class="overlap-5">
+                      <div class="overlap-6">
+                        <img class="group-3" src="https://c.animaapp.com/pybZqySi/img/group-2@2x.png" />
+                        <img class="group-4" src="https://c.animaapp.com/pybZqySi/img/group-4@2x.png" />
+                        <img class="group-5" src="https://c.animaapp.com/pybZqySi/img/group-5@2x.png" />
+                      </div>
+                      <div class="overlap-7">
+                        <img class="img-2" src="https://c.animaapp.com/pybZqySi/img/vector-2.svg" />
+                        <img class="img-3" src="https://c.animaapp.com/pybZqySi/img/vector-3.svg" />
+                        <img class="vector" src="https://c.animaapp.com/pybZqySi/img/vector-4.svg" />
+                      </div>
+                    </div>
+                    <img class="vector-2" src="https://c.animaapp.com/pybZqySi/img/vector-1.svg" />
+                  </div>
+                  <img class="vector-3" src="https://c.animaapp.com/pybZqySi/img/vector.svg" />
+                  <div class="group-6"></div>
+                </div>
+                <div class="rectangle-2"></div>
+              </div>
+            </div>
+            <p class="text-wrapper-16">Research powered by Invest4Edu Pvt Ltd.</p>
+            <div class="text-wrapper-17">Page No. 1</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

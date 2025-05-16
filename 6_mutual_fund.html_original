@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="mutual_fund_style.css" />
+  </head>
+  <body>
+    <div class="element" data-model-id="1:1350">
+      <div class="div">
+        <div class="text-wrapper">Mutual Fund</div>
+        <p class="p">Focus on creating a Mutual fund portfolio with objective of long term wealth creation.</p>
+        <p class="text-wrapper-2">
+          Selection of fund which are majorly equity oriented and capable of generating Alpha in comparison with the
+          benchmark returns.
+        </p>
+        <p class="text-wrapper-3">Investment in funds with a time horizon of 5 - 7years.</p>
+        <p class="text-wrapper-4">
+          Selection of portfolio which are managed by Fund Managers with proven track record.
+        </p>
+        <div class="text-wrapper-5">Fund Name</div>
+        <div class="text-wrapper-6">Category</div>
+        <img class="line" src="https://c.animaapp.com/pybZqySi/img/line-72.svg" />
+        <img class="img" src="https://c.animaapp.com/pybZqySi/img/line-72.svg" />
+        <div class="overlap">
+          <p class="HDFC-top-fund" id="mutual-fund-names">
+            HDFC Top 100 Fund<br />Nippon India Large cap Fund<br />ICICI Bluechip Fund<br />Bajaj Finserv large Cap
+            Fund<br />Motilal Oswal Nasdaq 100 Fund of Fund<br />ICICI Prudential US Bluechip Equity Fund<br />Nippon
+            India US Equity Opportunites Fund<br />HDFC Balance Advantage Fund<br />SBI Balance Advantage Fund<br />ICICI
+            Prudential Multi asset Fund<br />Nippon India Innovation Fund<br />SBI Energy Opportunities Fund
+          </p>
+          <p class="largecap-largecap" id="mutual-fund-categories">
+            LargeCap<br />LargeCap<br />Large Cap<br />Large Cap<br />Global Fund<br />Global Fund<br />Global Fund<br />Hybrid<br />Hybrid<br />Multi
+            Asset<br />Thematic<br />Thematic
+          </p>
+          <div class="text-wrapper-7" id="mutual-fund-returns-1yr">
+            8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%
+          </div>
+          <div class="text-wrapper-8" id="mutual-fund-returns-3yr">
+            8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%
+          </div>
+          <div class="text-wrapper-9" id="mutual-fund-returns-5yr">
+            8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%<br />8.00%<br />8.00%<br />18.00%
+          </div>
+          <img class="line-2" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-3" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-4" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-5" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-6" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-7" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-8" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-9" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-10" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-11" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-12" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+          <img class="line-13" src="https://c.animaapp.com/pybZqySi/img/line-84.svg" />
+        </div>
+        <div class="text-wrapper-10">Returns (%)</div>
+        <div class="text-wrapper-11">1 Year</div>
+        <div class="text-wrapper-12">3 Years</div>
+        <div class="text-wrapper-13">5 Years</div>
+        <div class="overlap-group">
+          <div class="rectangle"></div>
+          <div class="frame"><div class="text-wrapper-14">Investment Products</div></div>
+        </div>
+        <div class="div-wrapper"><div class="text-wrapper-15">Target: 1.00Cr</div></div>
+        <img class="group" src="https://c.animaapp.com/pybZqySi/img/group-1@4x.png" />
+        <div class="overlap-wrapper">
+          <div class="overlap-2">
+            <div class="overlap-group-wrapper">
+              <div class="overlap-3">
+                <div class="group-2">
+                  <div class="overlap-group-2">
+                    <img class="img-2" src="https://c.animaapp.com/pybZqySi/img/group@2x.png" />
+                    <img class="img-3" src="https://c.animaapp.com/pybZqySi/img/group-3@2x.png" />
+                  </div>
+                  <div class="overlap-4">
+                    <div class="overlap-5">
+                      <div class="overlap-6">
+                        <img class="group-3" src="https://c.animaapp.com/pybZqySi/img/group-2@2x.png" />
+                        <img class="group-4" src="https://c.animaapp.com/pybZqySi/img/group-4@2x.png" />
+                        <img class="group-5" src="https://c.animaapp.com/pybZqySi/img/group-5@2x.png" />
+                      </div>
+                      <div class="overlap-7">
+                        <img class="img-2" src="https://c.animaapp.com/pybZqySi/img/vector-2.svg" />
+                        <img class="img-3" src="https://c.animaapp.com/pybZqySi/img/vector-3.svg" />
+                        <img class="vector" src="https://c.animaapp.com/pybZqySi/img/vector-4.svg" />
+                      </div>
+                    </div>
+                    <img class="vector-2" src="https://c.animaapp.com/pybZqySi/img/vector-1.svg" />
+                  </div>
+                  <img class="vector-3" src="https://c.animaapp.com/pybZqySi/img/vector.svg" />
+                  <div class="group-6"></div>
+                </div>
+                <div class="rectangle-2"></div>
+              </div>
+            </div>
+            <p class="text-wrapper-16">Research powered by Invest4Edu Pvt Ltd.</p>
+            <div class="text-wrapper-17">Page No. 1</div>
+          </div>
+        </div>
+        <div class="text-wrapper-18">Top Performing Mutual Funds</div>
+      </div>
+    </div>
+  </body>
+</html>
